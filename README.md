@@ -24,7 +24,7 @@ The primary motivation behind this project is to demonstrate the application of 
 
 ## Dataset
 
-The dataset used for this project contains information on the number of hours students studied and their corresponding scores. The dataset is included in the `data` directory.
+The dataset used for this project contains information on the number of hours students studied and their corresponding scores.
 
 ## Prerequisites
 
